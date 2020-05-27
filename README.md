@@ -25,8 +25,8 @@ $ heroku git:remote -a your-app-name
 
 Modelinizi deploy edin: 
 
-$ git add .
-$ git commit -am "make it better"
+$ git add . 
+$ git commit -am "make it better" 
 $ git push heroku master
 
 
