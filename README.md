@@ -23,10 +23,7 @@ cd my-project/
 git init
 heroku git:remote -a your-app-name
 
-Modelinizi deploy edin: 
-git add .
-git commit -am "make it better"
-git push heroku master
+
 
 
 Modelin eğitiminde "Kişisel Gazete”, Oğuz Yıldırım, Fatih Atık, Yıldız Teknik Üniversitesi, Bilgisayar Mühendisliği Bölümü, Bitirme Projesi, 2013. çalışmasında kullanılan haber metinlerinden yukarıda belirtilen kategoriler ve yaklaşık 5600 haber metni kullanılmıştır.
