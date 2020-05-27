@@ -1,3 +1,4 @@
+# Model Deployment
 6 haber kategorisinde haber metinlerini sınıflandıran modeldir. MNaiev Bayes algoritması ve vektörel dönüşüm işlemleri ile basit anlamda geliştirilmiş bir modeldir. Model Flask ile Heroku'ya deploy edilecek duruma getirilmiştir. Aşağıdaki adresten modeli test edebilirsiniz. https://flask-news-class.herokuapp.com/
 
 Haber Kategorileri:
