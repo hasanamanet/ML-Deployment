@@ -19,7 +19,7 @@ $ heroku login
 
 Projenizin olduğu dizine gelin ve yeni bir git deposu oluşturun: 
 
-$ cd my-project/
+$ cd my-project/ \n
 $ git init
 $ heroku git:remote -a your-app-name
 
