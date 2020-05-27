@@ -27,5 +27,8 @@ $ git add .</br>
 $ git commit -am "make it better"</br>
 $ git push heroku master
 
+## GitHub bağlantısıyla yüklemek için:
+
+- Heroku'da app oluşturduktan sonra "Deploy" seçeneklerinde GitHub seçerek GitHub hesabınızı Heroku'ya bağlamalısınız. İlgili respositroyi seçtikten sonra "Deploy Branch" tıklayarak deploy işlemini tamamlayabilirsiniz.
 
 - Modelin eğitiminde "Kişisel Gazete”, Oğuz Yıldırım, Fatih Atık, Yıldız Teknik Üniversitesi, Bilgisayar Mühendisliği Bölümü, Bitirme Projesi, 2013. çalışmasında kullanılan haber metinlerinden yukarıda belirtilen kategoriler ve yaklaşık 5600 haber metni kullanılmıştır.
