@@ -14,19 +14,19 @@ Haber Kategorileri:
 
 ## Terminalden yüklemek için:
 
-Heroku'da login olmalısınız:
+- Heroku'da login olmalısınız:
 $ heroku login
 
-Projenizin olduğu dizine gelin ve yeni bir git deposu oluşturun: 
+- Projenizin olduğu dizine gelin ve yeni bir git deposu oluşturun: 
 
 $ cd my-project/</br>
 $ git init</br>
 $ heroku git:remote -a your-name-app</br>
 
-Modelinizi deploy edin: </br>
-git add .</br>
-git commit -am "make it better"</br>
-git push heroku master
+- Modelinizi deploy edin: </br>
+$ git add .</br>
+$ git commit -am "make it better"</br>
+$ git push heroku master
 
 
 - Modelin eğitiminde "Kişisel Gazete”, Oğuz Yıldırım, Fatih Atık, Yıldız Teknik Üniversitesi, Bilgisayar Mühendisliği Bölümü, Bitirme Projesi, 2013. çalışmasında kullanılan haber metinlerinden yukarıda belirtilen kategoriler ve yaklaşık 5600 haber metni kullanılmıştır.
