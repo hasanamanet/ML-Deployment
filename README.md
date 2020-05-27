@@ -18,7 +18,6 @@ Haber Kategorileri:
 $ heroku login
 
 - Projenizin olduğu dizine gelin ve yeni bir git deposu oluşturun: 
-
 $ cd my-project/</br>
 $ git init</br>
 $ heroku git:remote -a your-name-app</br>
