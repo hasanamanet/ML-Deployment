@@ -7,6 +7,7 @@ Haber Kategorileri:
 
 
 # Heroku deployment:
+Aşağıdaki işlemleri sırasıyla yaparak modelinizi Heroku'ya deploy edebilirsiniz.
 - Heroku'ya üye olmalısınız.
 - Yeni app oluşturmalısınız.
 - Lokaldeki dosyaları deploy etme. (İki seçenekle bu işlemi yapabilirsiniz. Birincisi terminalden modeli Heroku'ya deploy edebilirsiniz. İkincisi GitHub'a yüklediğiniz respostory Heroku'da oluşturduğunuz uygulamaya bağlayabilirsiniz.)
