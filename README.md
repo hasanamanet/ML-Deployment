@@ -7,10 +7,9 @@ Haber Kategorileri:
 
 
 # Heroku deployment:
-
-1- Heroku'da üye olmalısınız.
-2- Yeni app oluşturmalısınız.
-3- Lokaldeki dosyaları deploy etme. (İki seçenekle bu işlemi yapabilirsiniz. Birincisi terminalden modeli Heroku'ya deploy edebilirsiniz. İkincisi GitHub'a yüklediğiniz respostory Heroku'da oluşturduğunuz uygulamaya bağlayabilirsiniz.)
+- Heroku'da üye olmalısınız.
+- Yeni app oluşturmalısınız.
+- Lokaldeki dosyaları deploy etme. (İki seçenekle bu işlemi yapabilirsiniz. Birincisi terminalden modeli Heroku'ya deploy edebilirsiniz. İkincisi GitHub'a yüklediğiniz respostory Heroku'da oluşturduğunuz uygulamaya bağlayabilirsiniz.)
 
 ## Terminalden yüklemek için:
 
