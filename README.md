@@ -15,19 +15,17 @@ Haber Kategorileri:
 ## Terminalden yüklemek için:
 
 Heroku'da login olmalısınız:
-$ heroku login 
+$ heroku login
 
 Projenizin olduğu dizine gelin ve yeni bir git deposu oluşturun: 
 
-$ cd my-project
-
+$ cd my-project/
 $ git init
 $ heroku git:remote -a your-app-name
 
 Modelinizi deploy edin: 
-
-$ git add . 
-$ git commit -am "make it better" 
+$ git add .
+$ git commit -am "make it better"
 $ git push heroku master
 
 
